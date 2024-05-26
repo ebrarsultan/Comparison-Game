@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fe20216f2bf7e22439bcd4986be6249c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puanSurePaneli: {instanceID: 0}
+  - pausePaneli: {instanceID: 0}
+  - sonucPaneli: {instanceID: 0}
+  - PuaniKapYazisi: {instanceID: 0}
+  - BuyukOlanSayiSecYazisi: {instanceID: 0}
+  - ustDikdortgen: {instanceID: 0}
+  - altDikdortgen: {instanceID: 0}
+  - ustText: {instanceID: 0}
+  - altText: {instanceID: 0}
+  - puanText: {instanceID: 0}
+  - baslangicSesi: {fileID: 8300000, guid: 812bd3fba3cf1514299bbaad7d15c905, type: 3}
+  - dogruSesi: {instanceID: 0}
+  - yanlisSesi: {instanceID: 0}
+  - bitisSesi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
