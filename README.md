@@ -1,44 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
-<body>
-
-<h1>Comparison Game</h1>
-
-<h2>Oyun Hakkında</h2>
-<p>Comparison Game, oyuncuların hızlı düşünme ve hesaplama becerilerini test eden eğlenceli bir oyundur. Oyun, iki tablo arasında sayılarla dolu bir ortamda geçer. Oyuncular, her turda gelen sayılardan büyük olanı seçerek ilerlerler. Ardından, seçilen sayılarla işlemler yapılır ve sonuçlarına göre bir sonraki tablo seçilir. Bu süreç, oyuncunun 90 saniyelik bir süre içinde en yüksek skoru elde etmeye çalıştığı hızlı tempolu bir deneyim sunar.</p>
-
-<h2>Oyun İçi Özellikler</h2>
-<ul>
-    <li>İki tablo arasında geçiş yapma</li>
-    <li>Sayıları karşılaştırma ve seçme</li>
-    <li>Toplama, çıkarma, çarpma ve bölme gibi temel matematik işlemleri</li>
-    <li>Random işlemlerle oyuncunun dikkatini test etme</li>
-    <li>Oyun süresince doğru ve yanlış sayıların izlenmesi</li>
-</ul>
-
-<h2>Kurulum</h2>
-<ol>
-    <li>Projeyi indirin.</li>
-    <li>Unity ile projeyi açın.</li>
-    <li>Oyunu derleyin ve çalıştırın.</li>
-</ol>
-
-<h2>Nasıl Oynanır</h2>
-<ol>
-    <li>Oyuna başladığınızda, karşınıza iki tablo çıkacaktır.</li>
-    <li>Her turda, her tablodan gelen sayıları karşılaştırarak büyük olanı seçin.</li>
-    <li>Sonra, seçilen sayılarla belirtilen işlemi yapın.</li>
-    <li>İşlem sonucuna göre, bir sonraki tabloyu seçin.</li>
-    <li>90 saniye boyunca mümkün olduğunca yüksek bir skor elde etmeye çalışın.</li>
-</ol>
+Comparison Game
+Oyun Hakkında
+Comparison Game, oyuncuların hızlı düşünme ve hesaplama becerilerini test eden eğlenceli bir oyundur. Oyun, iki tablo arasında sayılarla dolu bir ortamda geçer. Oyuncular, her turda gelen sayılardan büyük olanı seçerek ilerlerler. Ardından, seçilen sayılarla işlemler yapılır ve sonuçlarına göre bir sonraki tablo seçilir. Bu süreç, oyuncunun 90 saniyelik bir süre içinde en yüksek skoru elde etmeye çalıştığı hızlı tempolu bir deneyim sunar.
 
 
 
+Oyun İçi Özellikler
+İki tablo arasında geçiş yapma
+Sayıları karşılaştırma ve seçme
+Toplama, çıkarma, çarpma ve bölme gibi temel matematik işlemleri
+Random işlemlerle oyuncunun dikkatini test etme
+Oyun süresince doğru ve yanlış sayıların izlenmesi
+Kurulum
+Projeyi indirin.
+Unity ile projeyi açın.
+Oyunu derleyin ve çalıştırın.
+Nasıl Oynanır
+Oyuna başladığınızda, karşınıza iki tablo çıkacaktır.
+Her turda, her tablodan gelen sayıları karşılaştırarak büyük olanı seçin.
+Sonra, seçilen sayılarla belirtilen işlemi yapın.
+İşlem sonucuna göre, bir sonraki tabloyu seçin.
+120 saniye boyunca mümkün olduğunca yüksek bir skor elde etmeye çalışın.
 
-</body>
-</html>
+![Ekran görüntüsü 2024-05-26 164343](https://github.com/ebrarsultan/Comparison-Game/assets/149077575/7d8a2704-7770-4002-a15d-feef63a73dd8)
+
+![Ekran görüntüsü 2024-05-26 164435](https://github.com/ebrarsultan/Comparison-Game/assets/149077575/7840cf8d-6f58-43d3-a020-1f633718d528)
+  ![Ekran görüntüsü 2024-05-26 164449](https://github.com/ebrarsultan/Comparison-Game/assets/149077575/28445dfb-4584-4af3-9129-4c00336d0c67)
