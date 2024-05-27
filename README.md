@@ -41,7 +41,6 @@
 <h2>Gereksinimler</h2>
 <ul>
     <li>Unity (versiyon x.x.x)</li>
-    <li>[Diğer Gereksinimler]</li>
 </ul>
 
 <h2>Katkıda Bulunma</h2>
