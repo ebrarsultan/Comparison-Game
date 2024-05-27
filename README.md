@@ -47,8 +47,7 @@
 <h2>Katkıda Bulunma</h2>
 <p>Pull request'lerinizi kabul ediyoruz. Büyük değişiklikler yapmadan önce, değişikliklerinizin neyi ve niçin değiştirdiğini tartışmak için bir konu açınız.</p>
 
-<h2>Lisans</h2>
-<p>[Proje Lisans Bilgileri Ekleyin]</p>
+
 
 </body>
 </html>
