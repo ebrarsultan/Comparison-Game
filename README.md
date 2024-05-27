@@ -23,8 +23,8 @@
 
 <h2>Kurulum</h2>
 <ol>
-    <li>Projeyi klonlayın veya indirin.</li>
-    <li>Unity (versiyon x.x.x) ile projeyi açın.</li>
+    <li>Projeyi indirin.</li>
+    <li>Unity ile projeyi açın.</li>
     <li>Oyunu derleyin ve çalıştırın.</li>
 </ol>
 
