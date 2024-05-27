@@ -38,14 +38,6 @@
 </ol>
 
 
-<h2>Gereksinimler</h2>
-<ul>
-    <li>Unity (versiyon x.x.x)</li>
-</ul>
-
-<h2>Katkıda Bulunma</h2>
-<p>Pull request'lerinizi kabul ediyoruz. Büyük değişiklikler yapmadan önce, değişikliklerinizin neyi ve niçin değiştirdiğini tartışmak için bir konu açınız.</p>
-
 
 
 </body>
