@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2024-05-26 164343](https://github.com/ebrarsultan/Comparison-Game/assets/149077575/dea4dea3-ec18-47c5-8ead-5720ebf5cf1c)# Karşılaştırma Oyunu
+# Karşılaştırma Oyunu
 
 Karşılaştırma Oyunu, matematik işlemleriyle oyuncunun hesaplama yeteneğini ve dikkatini ölçmeyi amaçlayan bir oyundur. Ayrıca, farklı zorluk seviyelerinde rastgele gelen işlemlerle oyuncunun hafızasını da sınar. Oyun, bir dizi seviyeden oluşur ve her seviye oyuncunun başarı düzeyine göre puan verir.
 
